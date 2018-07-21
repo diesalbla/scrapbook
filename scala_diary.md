@@ -24,6 +24,19 @@
 #### Monday 18th June 2018.
 
 - [Cancelable IO – Alexandru Nedelcu](https://www.youtube.com/watch?v=UeyGHhYJqG4). A Talk from the Typelevel Summit, satellite to ScalaDays-EU, May 2018. 
-  Discusses concurrency in `scala.concurrent`, the developments of [`monix`](https://github.com/monix/monix), and the inception of [`cats-effect`](https://github.com/typelevel/cats-effect). 
+  Discusses concurrency in `scala.concurrent`, the developments of [`monix`](https://github.com/monix/monix), and the inception of [`cats-effect`](https://github.com/typelevel/cats-effect).
 
 
+#### Sunday, July 1st 2018.
+ 
+- [SF Scala, Rolando Manrique, fs2-blobstore Store implementations and use cases](https://www.youtube.com/watch?v=xM3N4hAQMFs)
+
+
+#### Sunday, July 2nd 2018. 
+
+- [Constraints Liberate, Liberties Constrain — Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw) 
+
+
+### Saturday, July 14th 2018. 
+
+- [Inference Driven Design](https://mpilquist.github.io/blog/2018/07/04/fs2/)
