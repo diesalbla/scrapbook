@@ -10,16 +10,10 @@
 - [Scalaz 8: A whole new game (John A. De Goes)](https://www.youtube.com/watch?v=sFGnFKMSmL0)
 
 
-##### Tuesday 12th June 2018.
-
-- [HaskellCast Episode 9 - Conal Elliott on FRP and Denotational Design](https://www.haskellcast.com/episode/009-conal-elliott-on-frp-and-denotational-design).
-
-
 ##### Wednesday 13th June 2018.
 
 - [Scala Blog - News on Scala Collections](https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html)
 - [Scalaz 8 IO vs Akka (typed) actors vs Monix (part 1)](https://blog.softwaremill.com/scalaz-8-io-vs-akka-typed-actors-vs-monix-part-1-5672657169e1)
-
 
 ##### Monday 18th June 2018.
 
@@ -65,4 +59,6 @@
 
 ##### Sunday, September 2nd 2018.
 - [Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html).
+
+
 

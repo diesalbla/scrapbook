@@ -1,3 +1,6 @@
+#### 12 June 2018
+
+- [Conal Elliott on FRP and Denotational Semantics](https://www.haskellcast.com/episode/009-conal-elliott-on-frp-and-denotational-design). A one-hour talk, no presentations, in which Conal Elliott retails the history of how he came up with FRP (from animations). 
 
 #### August 2nd 2018
 
