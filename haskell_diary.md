@@ -26,3 +26,7 @@ However, his main point is that, for many use-cases, the `ResourceT` is too powe
 ##### [Is Rust Functional](https://www.fpcomplete.com/blog/2018/10/is-rust-functional?utm_campaign=Service%20-%20Rust&utm_content=78598434&utm_medium=social&utm_source=linkedin)
 
 An analysis of what makes a programming language, and the style for writing programs on it, to be more or less functional; and how Rust appears under this analysis. 
+
+##### [Lenses: compositional data access and manipulation](https://skillsmatter.com/skillscasts/4556-simon-peyton-jones)
+
+A good and simplified introduction to lenses in Haskell. He describes the key idea of getter-setter pair, and how using type-trickery one moves from simple getter-setter types to the more generic formulations in the actual implementation. 
