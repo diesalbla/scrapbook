@@ -63,3 +63,7 @@
 
 #### Saturday, October 13th 2018.
 - [Speed Up things in Scalac and SBT](https://kubuszok.com/2018/speed-up-things-in-scalac-and-sbt/). A list of detailed tricks for improving CI builds in Scala projects. Reared towards backend development (an application exposing an API and working against a Database). 
+
+#### Tuesday, November 7th 2018. 
+
+- [Monix: Task’s Bracket, Resource[F, A] and Streaming](https://vimeo.com/299313903) Alex introduces the use of Monix primitives for `Resource`, `bracket`, and the streaming type `Iterant`.
