@@ -67,3 +67,8 @@
 #### Tuesday, November 7th 2018. 
 
 - [Monix: Task’s Bracket, Resource[F, A] and Streaming](https://vimeo.com/299313903) Alex introduces the use of Monix primitives for `Resource`, `bracket`, and the streaming type `Iterant`.
+
+#### Sunday, November 11th 2018
+
+- [A Tale of two Monix Streams, Scala Days 2018](https://monix.io/presentations/). Alex describes main abstractions of Monix, and introduces them with the intuition of Scala collections with laziness and effects. He contrasts `Observable`, for push-based streaming, with `Iterant`, used for pull-based streaming. 
+> Architecture is frozen music. Data structures are frozen algorithms. Freeze Algorithm into a Data Structure.
