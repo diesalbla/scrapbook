@@ -61,6 +61,9 @@
 - [Http4s error handling with Cats Meow MTL](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html).
 
 
+##### Monday 17th September 2018.
+- [SF Scala: Seth Tisue, Scala Compiler Plugins 101](https://www.youtube.com/watch?v=Dt_AIFNQuWc), 
+
 #### Saturday, October 13th 2018.
 - [Speed Up things in Scalac and SBT](https://kubuszok.com/2018/speed-up-things-in-scalac-and-sbt/). A list of detailed tricks for improving CI builds in Scala projects. Reared towards backend development (an application exposing an API and working against a Database). 
 

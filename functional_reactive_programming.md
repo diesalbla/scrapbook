@@ -9,3 +9,8 @@
 #### August 19th 2018. 
 
 - [Implementing and Optimising Functional Reactive Programming](https://skillsmatter.com/skillscasts/9461-implementing-and-optimising-functional-reactive-programming-henrik-nilsson), a talk by Henrik Nilsson about the implementation of the [Yampa](https://wiki.haskell.org/Yampa) library. 
+
+#### September 11th 2018.
+
+- [Asynchronous Functional Reactive Programming for GUIs](http://dblp.org/rec/bibtex/conf/pldi/CzaplickiC13). Evan Czaplicki article introducing Elm, as a specialised variant of FRP into a discrete-only signals, push-based systems. 
+- [A Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp). Evan Czaplicki blog post, announcing that Elm could be based on a formulation without FRP.
