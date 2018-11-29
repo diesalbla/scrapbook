@@ -75,3 +75,8 @@
 
 - [A Tale of two Monix Streams, Scala Days 2018](https://monix.io/presentations/). Alex describes main abstractions of Monix, and introduces them with the intuition of Scala collections with laziness and effects. He contrasts `Observable`, for push-based streaming, with `Iterant`, used for pull-based streaming. 
 > Architecture is frozen music. Data structures are frozen algorithms. Freeze Algorithm into a Data Structure.
+
+
+#### Wednesday, November 29th 2018.
+
+- [Scala Italy 2018 - Fabio Labella - Shared state in pure FP: when a state monad won’t do](https://vimeo.com/294736344)
