@@ -30,3 +30,8 @@ An analysis of what makes a programming language, and the style for writing prog
 ##### [Lenses: compositional data access and manipulation](https://skillsmatter.com/skillscasts/4556-simon-peyton-jones)
 
 A good and simplified introduction to lenses in Haskell. He describes the key idea of getter-setter pair, and how using type-trickery one moves from simple getter-setter types to the more generic formulations in the actual implementation. 
+
+#### Wednesday, November 29th 2018
+
+- [Haskellight - a Haskell framework and DSL for controlling lighting.](https://www.meetup.com/London-Haskell/events/256066832/) Control disco lights from Haskell. Peter Marks shows this system, covering both software and hardware. LED lightbulbs, electronic specifications, Arduino, chip boards designs, transistors, drivers, and a Haskell Api to progrann it.
+
