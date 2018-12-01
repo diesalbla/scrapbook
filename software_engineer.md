@@ -7,3 +7,8 @@ This is a list of readings on "Software Engineering", how groups of people can w
 #### Saturday, August 4th 2018
 
 - [Why programmers are not paid in proportion to their productivity](https://www.johndcook.com/blog/2009/12/23/why-programmers-are-not-paid-in-proportion-to-their-productivity)
+
+
+#### Saturday, 13th October 2018. 
+
+- [GPL - Frequently Asked Questions](https://www.gnu.org/licenses/gpl-faq.html)
