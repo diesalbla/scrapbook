@@ -21,11 +21,15 @@
 
 An article by Hudak and Wan, concerned with the key question "what does it mean for an FRP implementation to be correct". Quotes: 
 
-- We explore the formal semantics of FRP, and how it relates to an stream-based implementation that represent (therefore approximate) continuous behaviours.
-- An FRP program is just a set of mutually-recursive behaviours and events, each of them built up from static (non-time varying) values and/or behaviours and vents. 
-- A design goal for FRP is to free the programmer from presentation details by providing the ability to think in terms of "modelling". 
-- Intuitively, a "behaviour" is a stream transformer: takes an infinite stream of sample times "t_i", and yields an infinite stream of values "b(t_i)".
-- An implementation becomes two parts: a definition of FRP primitives, and behaviours; and a "runtime system", that interprets those behaviours by building an infinite stream of sample times and feeding it to the behavior. 
+> We explore the formal semantics of FRP, and how it relates to an stream-based implementation that represent (therefore approximate) continuous behaviours.
+> 
+> An FRP program is just a set of mutually-recursive behaviours and events, each of them built up from static (non-time varying) values and/or behaviours and vents. 
+>
+> A design goal for FRP is to free the programmer from presentation details by providing the ability to think in terms of "modelling". 
+>
+> Intuitively, a "behaviour" is a stream transformer: takes an infinite stream of sample times "t_i", and yields an infinite stream of values "b(t_i)".
+>
+> An implementation becomes two parts: a definition of FRP primitives, and behaviours; and a "runtime system", that interprets those behaviours by building an infinite stream of sample times and feeding it to the behavior. 
 
 
 
