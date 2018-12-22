@@ -81,6 +81,11 @@
 
 - [Scala Italy 2018 - Fabio Labella - Shared state in pure FP: when a state monad won’t do](https://vimeo.com/294736344)
 
+#### Saturday, December 22nd 2018.
+
+- [Blazing Fast, Pure Effects without Monads](https://www.youtube.com/watch?v=L8AEj6IRNEE). Talk by Jon de Goes, about Scalaz using Kleisli Arrows. It describes the use of arrow operators for IO operations. 
+
+
 ### 2019
 
 - 25th February: [The Death of FInal Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters), on-site. Jon discusses the Tagless Final style in its full expression: capabilities as type-classes, type-classes as traits and implicits, and algebras as trait parameterised on a higuer-kind type parameter. 
