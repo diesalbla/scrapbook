@@ -35,3 +35,9 @@ A good and simplified introduction to lenses in Haskell. He describes the key id
 
 - [Haskellight - a Haskell framework and DSL for controlling lighting.](https://www.meetup.com/London-Haskell/events/256066832/) Control disco lights from Haskell. Peter Marks shows this system, covering both software and hardware. LED lightbulbs, electronic specifications, Arduino, chip boards designs, transistors, drivers, and a Haskell Api to progrann it.
 
+#### Sunday, April 21st 2019. 
+
+- [High Performance Haskell by Harendra Kumar](https://www.youtube.com/watch?v=aJvwORrBJ0o&list=WL&index=8&t=10s&pbjreload=10). Introduction to key techniques for performance optimisation in Haskell, such as function _inlining_, type-class _specialisation_, use of _strictness_, how to use efficiently use benchmarking, etc. 
+
+    
+    

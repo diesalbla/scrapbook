@@ -80,3 +80,24 @@
 #### Wednesday, November 29th 2018.
 
 - [Scala Italy 2018 - Fabio Labella - Shared state in pure FP: when a state monad won’t do](https://vimeo.com/294736344)
+
+### 2019
+
+- 25th February: [The Death of FInal Tagless](https://skillsmatter.com/skillscasts/13247-scala-matters), on-site. Jon discusses the Tagless Final style in its full expression: capabilities as type-classes, type-classes as traits and implicits, and algebras as trait parameterised on a higuer-kind type parameter. 
+
+- 17th March: [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI), a talk about the new property-testing capabilities of ScalaTest. 
+
+- 25th March: [How I Rebuilt the Typelevel Ecosystem with Fury](https://skillsmatter.com/skillscasts/13245-scala-matters). Talk attended on-site. 
+
+- 25th April: [Adam Warski - Descriptions, APIs and Tapirs](https://www.youtube.com/watch?v=TARW95QDdew), attended on-site. Adam describes Tapir, a library for purely-functional description of APIs. The goal of the library is to describe the API as an OpenAPI spec would.
+
+- May 20th: [The Elements of Tagless Final Style](https://skillsmatter.com/skillscasts/13253-scala-matters). Noel Welsh presents the Tagless-Final style in its essential form, using the classical calculator-like example.
+
+
+#### Sunday, May 26th 2019.
+
+
+- [Networks and Types — the Future of Akka by Konrad ‘ktoso’ Malawski](https://www.youtube.com/watch?v=Qb9Cnii-34c).
+
+- [6 reasons why not to use Akka Cluster for interservice communication in a microservice architecture](https://blog.softwaremill.com/6-reasons-why-not-to-use-akka-cluster-for-interservice-communication-in-a-microservice-architecture-2736d5223573). 
+
