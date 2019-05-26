@@ -12,3 +12,8 @@ This is a list of readings on "Software Engineering", how groups of people can w
 #### Saturday, 13th October 2018. 
 
 - [GPL - Frequently Asked Questions](https://www.gnu.org/licenses/gpl-faq.html)
+
+#### 2019
+
+- [Keynote: Continous Delivery Sounds Great By Jez Humble @ Agile India 2017](https://www.youtube.com/watch?v=SjVV3xuYKJs). 
+

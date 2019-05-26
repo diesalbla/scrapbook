@@ -96,8 +96,9 @@
 
 #### Sunday, May 26th 2019.
 
-
 - [Networks and Types — the Future of Akka by Konrad ‘ktoso’ Malawski](https://www.youtube.com/watch?v=Qb9Cnii-34c).
 
 - [6 reasons why not to use Akka Cluster for interservice communication in a microservice architecture](https://blog.softwaremill.com/6-reasons-why-not-to-use-akka-cluster-for-interservice-communication-in-a-microservice-architecture-2736d5223573). 
 
+- [Tutorial 1 - Customized `parTraverse` using `Deferred`](https://www.youtube.com/watch?v=uuocHqdnoS0&t=601s). 
+- [Tutorial 2 - Sharding a stream of values using Fs2](https://www.youtube.com/watch?v=FWYXqYQWAc0)
