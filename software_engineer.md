@@ -17,3 +17,5 @@ This is a list of readings on "Software Engineering", how groups of people can w
 
 - [Keynote: Continous Delivery Sounds Great By Jez Humble @ Agile India 2017](https://www.youtube.com/watch?v=SjVV3xuYKJs). 
 
+- May 28th: [Unlearning toxic behaviors in a code review culture](https://medium.com/free-code-camp/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c).
+
