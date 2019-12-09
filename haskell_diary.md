@@ -43,3 +43,5 @@ A good and simplified introduction to lenses in Haskell. He describes the key id
 - April 21st: [High Performance Haskell by Harendra Kumar](https://www.youtube.com/watch?v=aJvwORrBJ0o&list=WL&index=8&t=10s&pbjreload=10). Introduction to key techniques for performance optimisation in Haskell, such as function _inlining_, type-class _specialisation_, use of _strictness_, how to use efficiently use benchmarking, etc. 
 
 - June 1st: [How we made Haskell search strings as fast as Rust](https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html).
+
+- 
