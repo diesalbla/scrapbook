@@ -19,3 +19,9 @@ This is a list of readings on "Software Engineering", how groups of people can w
 
 - May 28th: [Unlearning toxic behaviors in a code review culture](https://medium.com/free-code-camp/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c).
 
+
+#### 2020
+
+- May 2020: [How to escape the distributed monolith](https://www.youtube.com/watch?v=zeMEKwsK7fI).
+
+> By the way, a microservice is a logical not a physical unit.
