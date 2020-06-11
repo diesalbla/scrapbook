@@ -25,3 +25,6 @@ This is a list of readings on "Software Engineering", how groups of people can w
 - May 2020: [How to escape the distributed monolith](https://www.youtube.com/watch?v=zeMEKwsK7fI).
 
 > By the way, a microservice is a logical not a physical unit.
+
+- 11 June 2020: [GOTO 2019 Does Agile Make Us Less Secure? by Michael Brunton-Spall](https://www.youtube.com/watch?v=6U41SSz15xw&t=1s)
+- 11 June 2020: [GOTO 2019 Why Your Private Cloud is Probably a Bad Idea. By Sam Newman](https://www.youtube.com/watch?v=MbaPtzSuQII)
