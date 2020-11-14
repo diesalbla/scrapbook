@@ -28,3 +28,6 @@ This is a list of readings on "Software Engineering", how groups of people can w
 
 - 11 June 2020: [GOTO 2019 Does Agile Make Us Less Secure? by Michael Brunton-Spall](https://www.youtube.com/watch?v=6U41SSz15xw&t=1s)
 - 11 June 2020: [GOTO 2019 Why Your Private Cloud is Probably a Bad Idea. By Sam Newman](https://www.youtube.com/watch?v=MbaPtzSuQII)
+
+
+- Sometime: [GOTO 2020 When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
