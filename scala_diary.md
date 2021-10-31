@@ -107,3 +107,14 @@
 
 - [Tutorial 1 - Customized `parTraverse` using `Deferred`](https://www.youtube.com/watch?v=uuocHqdnoS0&t=601s). 
 - [Tutorial 2 - Sharding a stream of values using Fs2](https://www.youtube.com/watch?v=FWYXqYQWAc0)
+
+
+
+#### Sunday, August 22th 2021. 
+
+- Akka Serverless. 
+
+
+### Saturday 30th October 2021: 
+
+- [The future of Lagom](https://discuss.lightbend.com/t/the-future-of-lagom/8962)

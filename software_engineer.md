@@ -31,3 +31,9 @@ This is a list of readings on "Software Engineering", how groups of people can w
 
 
 - Sometime: [GOTO 2020 When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
+
+
+
+#### 2021 
+
+[20 Things I have learned in my 20 years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
