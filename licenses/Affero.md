@@ -325,8 +325,7 @@ Later license versions may give you additional or different permissions. However
 
 #### 15. Disclaimer of Warranty.
 
-THERE IS NO WARRANTY FOR THE PROGRAM, to the extent permitted by applicable law. Except when otherwise stated in writing THE COPYRIGHT HOLDERS and/or other parties PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK as to the quality and performance of the Program IS WITH YOU. Should the Program prove
-defective, YOU ASSUME THE COST of all necessary servicing, repair or correction.
+THERE IS NO WARRANTY FOR THE PROGRAM, to the extent permitted by applicable law. Except when otherwise stated in writing THE COPYRIGHT HOLDERS and/or other parties PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK as to the quality and performance of the Program IS WITH YOU. Should the Program prove defective, YOU ASSUME THE COST of all necessary servicing, repair or correction.
 
 #### 16. Limitation of Liability.
 
