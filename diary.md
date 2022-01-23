@@ -1,4 +1,12 @@
+### 2018 
 
+#### June
+
+##### Sunday, 10th of June 2018. 
+
+- [Speeding up Compilation Time With `Scalac-Profiling](https://www.scala-lang.org/blog/2018/06/04/scalac-profiling.html)
+- [Advanced Tagless Final](https://www.youtube.com/watch?v=E9iRYNuTIYA&t=1007s-)
+- [Scalaz 8: A whole new game (John A. De Goes)](https://www.youtube.com/watch?v=sFGnFKMSmL0)
 
 #### Sunday 8th of July 2018
 
